@@ -32,7 +32,7 @@ COURSE OUTLINE: (subject to change as we like it)
 
 W1-4: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
 
-W5-6: Turing and Computational and Representational Theories of Mind (yes these are different but complementary theories)
+W5-6: Turing and the Explanatory role of computers for the mind
 
 W7-14: Topics To be determined from the textbook and secondary textbook.
 
