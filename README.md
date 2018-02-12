@@ -50,6 +50,8 @@ Isms in philosophy of (cognitive) science (or: things to get out your chest befo
 
 Turing: What exactly is computation? (or: the real thing from the horse's mouth)
 
+EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
+
 GRADING:
 
 35% Brief Essays (5)
