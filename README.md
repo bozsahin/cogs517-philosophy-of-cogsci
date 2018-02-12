@@ -45,4 +45,15 @@ Mind Design II. By John Haugeland. MIT Press. 1997.
 LECTURE NOTES:
 
 Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
+
 Turing: What exactly is computation? (or: the real thing from the horse's mouth)
+
+GRADING:
+
+35% Brief Essays (5)
+
+20% presentation of material from the reader AND its related material
+
+15% participation in weekly questions and discussion
+
+30% Weekly quiz (in class, total of 12 quizzes, 10 counted toward grade, about 30 minutes)
