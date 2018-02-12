@@ -48,17 +48,19 @@ Mind Design II. By John Haugeland. MIT Press. 1997.
 
 LECTURE NOTES:
 
-Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
+- Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
 
-Turing: What exactly is computation? (or: the real thing from the horse's mouth)
+- Turing: What exactly is computation? (or: the real thing from the horse's mouth)
+
+- Computers and content
 
 EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
 
 GRADING:
 
-35% Brief Essays (5)
+30% Brief Essays (5)
 
-20% presentation of material from the reader AND its related material
+25% presentation of material from the reader AND its related material
 
 15% participation in weekly questions and discussion
 
