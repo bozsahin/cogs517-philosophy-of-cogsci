@@ -6,7 +6,7 @@ This is the repo for the course above at METU when i teach it.
 
 It includes lecture notes, papers, and syllabus (this file).
 
-It is required that you clone and monitor this repo (monitoring command is 'pull'. Get your git basics right as soon as possible). 
+It is required that you clone and monitor this repo (monitoring command is 'pull'. <b>Get your git basics right as soon as possible</b>). 
 
 It is also required to follow the course discussion [group](https://groups.google.com/forum/#!forum/metu-cogs517-phil-of-cogsci). 
 
@@ -19,6 +19,8 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
 LECTURER: Cem Bozsahin (Spring 2018) TA: Firat Oter
+
+LECTURES: Wednesdays 14.40-17.30, Room S-01 at Informatics.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
