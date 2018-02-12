@@ -12,5 +12,37 @@ It is also required to follow the course discussion [group](https://groups.googl
 
 Make sure that you do not miss important announcements.
 
+WHERE: Middle East Technical University (METU/ODTU), Informatics Institute, Cognitive Science Department
 
--cem bozsahin
+COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)3
+
+CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
+
+LECTURER: Cem Bozsahin (Spring 2017) TA: Firat Oter
+
+BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
+
+COURSE IN RELATION TO THE PROGRAM: It is a departmental elective course in the Philosophy track of Cognitive Science. It can be taken as elective by other departments.
+
+COURSE OBJECTIVES: One can study these topics in the philosophical tradition, as philosophy of mind. One can also see the contents as philosophy for cognitive science, i.e. covering schools and practices of philosophy for the benefit of the cognitive scientist. This course is neither. It is about the philosophy of cognitive science from the inside, as cognitive scientists encounter scientific and philosophical problems, more like in a philosophy of science tradition, except that it's covered by a scientist rather than a philosopher in current offering.
+
+So, why this course? Remember: We wouldn't need CogSci if Cognitive Psychology were successful. We wouldn't need CogSci if AI were successful. We wouldn't need CogSci if Philosophy of Mind were successful. We wouldn't need CogSci if the so-called Cognitive Revolution in Linguistics were successful. Inquiring minds want to know why they failed (to deliver).
+
+COURSE OUTLINE: (subject to change as we like it)
+
+W1-4: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
+W5: Turing and Computational and Representational Theories of Mind (yes these are different but complementary theories)
+W6-14: Topics To be determined from the textbook and secondary textbook.
+
+
+COURSE CONDUCT: W1-5 lectures. W6-W12 are presentations by students of the relevant chapter from the textbook or papers, in the following format: prologue by lecturer (stop me if i talk more than half an hour), presentation by a student, discussion by whole class. Discussant of the day will be the student responsible for the day. Essay writing throughout the term.
+
+TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2013). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
+
+SECONDARY TEXTBOOK (about three chapters):
+Mind Design II. By John Haugeland. MIT Press. 1997.
+
+LECTURE NOTES:
+
+Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
+Turing: What exactly is computation? (or: the real thing from the horse's mouth)
