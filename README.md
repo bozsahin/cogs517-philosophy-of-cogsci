@@ -31,7 +31,9 @@ So, why this course? Remember: We wouldn't need CogSci if Cognitive Psychology w
 COURSE OUTLINE: (subject to change as we like it)
 
 W1-4: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
+
 W5-6: Turing and Computational and Representational Theories of Mind (yes these are different but complementary theories)
+
 W7-14: Topics To be determined from the textbook and secondary textbook.
 
 
