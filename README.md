@@ -60,4 +60,4 @@ GRADING:
 
 15% participation in weekly questions and discussion
 
-30% Weekly quiz (in class, total of 12 quizzes, max. 10 counts toward grade, about 30 minutes)
+30% Weekly quiz (in class, total of 12 quizzes, max. 10 count toward grade, about 30 minutes)
