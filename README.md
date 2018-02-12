@@ -37,7 +37,7 @@ W5-6: Turing and the Explanatory role of computers for the mind
 W7-14: Topics To be determined from the textbook and secondary textbook.
 
 
-COURSE CONDUCT: W1-5 lectures. W6-W12 are presentations by students of the relevant chapter from the textbook or papers, in the following format: prologue by lecturer (stop me if i talk more than half an hour), presentation by a student, discussion by whole class. Discussant of the day will be the student responsible for the day. Essay writing throughout the term.
+COURSE CONDUCT: W1-6 lectures. W7-W12 are presentations by students of the relevant chapter from the textbook or papers, in the following format: prologue by lecturer (stop me if i talk more than half an hour), presentation by a student, discussion by whole class. Discussant of the day will be the student responsible for the day. Essay writing throughout the term.
 
 TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2013). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
 
