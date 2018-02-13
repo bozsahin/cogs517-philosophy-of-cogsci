@@ -67,4 +67,4 @@ GRADING:
 
 15% Active participation in weekly questions and discussion
 
-30% Weekly quiz (in class, total of 12 quizzes, max. 10 count toward grade, about 20 minutes. Quiz topic is the topic of the day.)
+30% Weekly quiz (in class, total of 12 quizzes, max. 10 count toward grade, about 20 minutes. Quiz topics are usually topics discussed in current class, or the one before.)
