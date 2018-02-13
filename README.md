@@ -49,7 +49,9 @@ Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7).
 
 LECTURE NOTES:
 
-- Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
+- Isms in philosophy of (cognitive) science 
+
+(or: things to get out your chest before doing some serious work on philosophy of cogsci)
 
 - Turing: What exactly is computation? (or: the real thing from the horse's mouth)
 
