@@ -45,6 +45,8 @@ TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2013). Philosophy of Mind an
 
 SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
 
+Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7).
+
 LECTURE NOTES:
 
 - Isms in philosophy of (cognitive) science (or: things to get out your chest before doing some serious work on philosophy of cogsci)
