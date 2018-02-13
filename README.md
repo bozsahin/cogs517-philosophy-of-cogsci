@@ -30,7 +30,7 @@ COURSE OBJECTIVES: One can study these topics in the philosophical tradition, as
 
 So, why this course? Remember: We wouldn't need CogSci if Cognitive Psychology were successful. We wouldn't need CogSci if AI were successful. We wouldn't need CogSci if Philosophy of Mind were successful. We wouldn't need CogSci if the so-called Cognitive Revolution in Linguistics were successful. Inquiring minds want to know why they failed (to deliver).
 
-COURSE OUTLINE: (subject to change as we like it)
+COURSE OUTLINE: 
 
 W1-4: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
 
@@ -41,7 +41,7 @@ W7-14: Topics To be determined from the textbook and secondary textbook.
 
 COURSE CONDUCT: W1-6 lectures. W7-W12 are presentations by students of the relevant chapter from the textbook or papers. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
 
-TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2013). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
+TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2007). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
 
 SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
 
