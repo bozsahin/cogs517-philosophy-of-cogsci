@@ -43,8 +43,7 @@ COURSE CONDUCT: W1-6 lectures. W7-W12 are presentations by students of the relev
 
 TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2013). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
 
-SECONDARY TEXTBOOK (about three chapters):
-Mind Design II. By John Haugeland. MIT Press. 1997.
+SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
 
 LECTURE NOTES:
 
