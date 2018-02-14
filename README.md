@@ -45,7 +45,7 @@ TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2007). Philosophy of Mind an
 
 SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
 
-Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7).
+Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7), and Fodor and Tomasello.
 
 LECTURE NOTES:
 
