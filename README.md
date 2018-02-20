@@ -20,7 +20,7 @@ CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cogniti
 
 LECTURER: Cem Bozsahin (Spring 2018) TA: Firat Oter
 
-LECTURES: Wednesdays 14.40-17.30, Room S-01 at Informatics.
+LECTURES: Wednesdays 14.40-17.30, Room S-03 at Informatics.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
