@@ -32,20 +32,20 @@ So, why this course? Remember: We wouldn't need CogSci if Cognitive Psychology w
 
 COURSE OUTLINE: 
 
-W1-4: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
+W1-2: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
 
-W5-6: Turing and the Explanatory role of computers for the mind
+W3-4: Turing and the Explanatory role of computers for the mind
 
-W7-14: Topics To be determined from the textbook and secondary textbook.
+W5-14: Topics To be determined from the textbook and secondary textbook.
 
 
-COURSE CONDUCT: W1-6 lectures. W7-W12 are presentations by students of the relevant chapter from the textbook or papers. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
+COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students of the relevant chapter from the textbook or papers. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
 
 TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2007). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
 
 SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
 
-Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7), and Fodor and Tomasello.
+Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7), and Fodor, Tomasello and Thompson.
 
 LECTURE NOTES:
 
