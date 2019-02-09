@@ -1,6 +1,6 @@
 # cogs517-philosophy-of-cogsci
 
-# Spring 2018
+# Spring 2019
 
 This is the repo for the course above at METU when i teach it.
 
@@ -18,9 +18,9 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Spring 2018) TA: Firat Oter
+LECTURER: Cem Bozsahin (Spring 2019) TA: Firat Oter
 
-LECTURES: Wednesdays 14.40-17.30, Room S-03 at Informatics.
+LECTURES: Tuesdays 14.40-17.30 at Informatics.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
@@ -41,11 +41,8 @@ W5-14: Topics To be determined from the textbook and secondary textbook.
 
 COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students of the relevant chapter from the textbook or papers. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
 
-TEXTBOOK: David Braddon-Mitchell and Frank Jackson (2007). Philosophy of Mind and Cognition. Blackwell. 2nd edition.
+TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
-SECONDARY TEXTBOOK (about three chapters): John Haugeland (1997). Mind Design II. MIT Press.
-
-Namely, chapters by Turing, Dennett and Searle (resp. 2, 3 and 7), and Fodor, Tomasello and Thompson.
 
 LECTURE NOTES:
 
