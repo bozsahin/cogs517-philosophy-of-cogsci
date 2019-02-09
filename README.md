@@ -65,6 +65,6 @@ GRADING:
 
 30% Brief Essays (5)
 
-30% Presentation of material AND its related material
+30% Presentation of material AND its related material, level of involvement in discussions on and off class
 
 40% Weekly quiz (in class, total of 12 quizzes, max. 10 count toward grade, about 20 minutes. Quiz topics are usually topics discussed in current class, or the one before, or the reading assignment of the week.)
