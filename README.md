@@ -35,7 +35,7 @@ ONLY interested in this problem. We try to understand philosophical implications
 
 COURSE OUTLINE: 
 
-W1-2: Introduction: A bit of philosophy of Mind before Philosophy of Cogsci
+W1-2: Introduction: A bit of philosophy of Science/Mind before Philosophy of Cogsci
 
 W3-4: Turing and the Explanatory role of computers for the mind
 
