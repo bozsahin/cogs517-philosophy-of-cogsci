@@ -1,6 +1,6 @@
 # Schedule of presentations in Spring 2019
 
-Feb 12, 19, 26, Mar 5 : Cem and Firat
+Feb 12, 19, 26, Mar 5 : Cem and Firat (Aristotle, Plato, Ibn Haldun, Descartes, Hume, Lewis, etc.)
 
 Mar 12 : Yeliz (Haugeland), Toprak Seda (Turing)
 
