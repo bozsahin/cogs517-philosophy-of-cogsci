@@ -10,7 +10,7 @@ Mar 26 : Giray (Marr),  Tugce Bekim & Sedef Erdemli (Bechtel)
 
 Apr 2  : Oguz Kerem (McDermott), Cumhur (Sloman '85)
 
-Apr 9  : Kadem Berker (Rapaport), Bengisu (Bozsahin, what is a comp constraint)
+Apr 9  : Kadem Berker (Rapaport), Bengisu (Fodor)
 
 Apr 16 : Sahura & Anil (Smolensky), Behiye (Churchland)
 
