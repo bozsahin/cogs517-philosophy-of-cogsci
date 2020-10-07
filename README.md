@@ -18,11 +18,11 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Spring 2019) Office hours: open door except tuesday and wednesday.
+LECTURER: Cem Bozsahin (Fall 2020) Office hours: open door except tuesday and wednesday.
 
-TA: Firat Oter
+TA: TBA
 
-LECTURES: Tuesdays 14.40-17.30 at Informatics.
+LECTURES: Tuesdays 14.40-17.30 at Informatics. Online at Fall 2020.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
