@@ -1,6 +1,6 @@
 # cogs517-philosophy-of-cogsci
 
-# Spring 2019
+# Fall 2020 (online)
 
 This is the repo for the course above at METU when i teach it.
 
@@ -25,7 +25,7 @@ LECTURER: Cem Bozsahin (Fall 2020) Office hours: open door except tuesday and we
 
 TA: TBA
 
-LECTURES: Tuesdays 14.40-17.30 at Informatics. Online at Fall 2020.
+LECTURES: Tuesdays 14.40-17.30 (this is our synch hour). Online in Fall 2020.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
@@ -42,7 +42,7 @@ COURSE OUTLINE:
 
 W1-2: Introduction: A bit of philosophy of Science/Mind before Philosophy of Cogsci
 
-W3-4: Turing and the Explanatory role of computers for the mind
+W3-4: Turing, Marr, and the Explanatory role of computers for the mind
 
 W5-14: Topics To be determined from the reader.
 
@@ -70,6 +70,6 @@ GRADING:
 
 30% Brief Essays (5)
 
-30% Presentation of material AND its related material, level of involvement in discussions on and off class
+30% Presentation of material AND its related material, level of involvement in discussions online and offline.
 
-40% Weekly quiz (in class, total of 12 quizzes, max. 10 count toward grade, about 20 minutes. Quiz topics are usually topics discussed in current class, or the one before or after, or the reading assignment of the week.)
+40% Weekly quiz (total of 12 quizzes, max. 10 count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or the reading assignment of the week.)
