@@ -25,7 +25,7 @@ LECTURER: Cem Bozsahin (Fall 2020) Office hours: open door except tuesday and we
 
 TA: TBA
 
-LECTURES: Tuesdays 14.40-17.30 (this is our synch hour). Online in Fall 2020.
+LECTURES: Thursdays 14.40-17.30 (this is our synch hour). Online in Fall 2020.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
