@@ -5,7 +5,10 @@
 This is the repo for the course above at METU when i teach it.
 
 <b> The course is now online, thanks to C19. I put videos up in youtube, you watch them wherever and whenever you want, then we synch and discuss using zoom/webex at class time,
-or some mutually agreeable time.</b>
+or some mutually agreeable time.
+
+Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work, and submit in PDF to us BY FRIDAY of the week.
+</b>
 
 It includes lecture notes, papers, and syllabus (this file).
 
@@ -23,7 +26,7 @@ CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cogniti
 
 LECTURER: Cem Bozsahin (Fall 2020) Office hours: open door except tuesday and wednesday.
 
-TA: TBA
+TA: Giray Songul.
 
 LECTURES: Thursdays 14.40-17.30 (this is our synch hour). Online in Fall 2020.
 
