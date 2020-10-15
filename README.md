@@ -10,7 +10,7 @@ or some mutually agreeable time.
 Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work, and submit in PDF to us BY FRIDAY of the week.
 </b>
 
-§the repo includes lecture notes, papers, and syllabus (this file).
+The repo includes lecture notes, papers, and syllabus (this file).
 
 It is required that you clone (command is `git clone') and monitor this repo (monitoring command is 'git pull'. <b>Get your git basics right as soon as possible</b>). 
 
