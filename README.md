@@ -12,7 +12,7 @@ Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) Y
 
 The repo includes lecture notes, papers, and syllabus (this file).
 
-It is required that you clone (git command that is `git clone') and monitor this repo ('git pull'). <b>Get your git basics right as soon as possible. Git culture is great for organizing work, and doing team work. It has become part of the toolkit for scientific work</b>. 
+It is required that you clone (git command that is `git clone') and monitor this repo ('git pull'). <b>Learn git basics  as soon as possible. Git culture is great for organizing work, and doing team work. It has become part of the toolkit for scientific work</b>. 
 
 It is also required to follow the course discussion group: (https://groups.google.com/forum/#!forum/metu-cogs-517-phil-of-cogsci). 
 
