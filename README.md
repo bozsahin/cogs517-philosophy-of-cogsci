@@ -10,9 +10,9 @@ or some mutually agreeable time.
 Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work, and submit in PDF to us BY FRIDAY of the week.
 </b>
 
-It includes lecture notes, papers, and syllabus (this file).
+§the repo includes lecture notes, papers, and syllabus (this file).
 
-It is required that you clone and monitor this repo (monitoring command is 'pull'. <b>Get your git basics right as soon as possible</b>). 
+It is required that you clone (command is `git clone') and monitor this repo (monitoring command is 'git pull'. <b>Get your git basics right as soon as possible</b>). 
 
 It is also required to follow the course discussion group: (https://groups.google.com/forum/#!forum/metu-cogs-517-phil-of-cogsci). 
 
@@ -24,7 +24,7 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2020) Office hours: open door except tuesday and wednesday.
+LECTURER: Cem Bozsahin (Fall 2020) Office hours: (asynch: just send me email if it is a personal problem, write to group if not). 
 
 TA: Giray Songul.
 
@@ -75,4 +75,4 @@ GRADING:
 
 30% Presentation of material AND its related material, level of involvement in discussions online and offline.
 
-40% Weekly quiz (total of 12 quizzes, max. 10 count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or the reading assignment of the week.)
+40% Weekly quiz (total of 12 quizzes, max. 10 count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
