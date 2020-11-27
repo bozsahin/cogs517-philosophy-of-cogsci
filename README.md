@@ -7,6 +7,7 @@ This is the repo for the course above at METU when i teach it.
 <b> The course is now online, thanks to C19.
 
 Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our Q&A meeting (synch) point, which is class time. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work.
+4) Presentations of papers are done at our synch time. We record them to be put on line, but synch attendance is required.
 </b>
 
 The repo includes lecture notes, papers, and syllabus (this file).
