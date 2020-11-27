@@ -4,10 +4,9 @@
 
 This is the repo for the course above at METU when i teach it.
 
-<b> The course is now online, thanks to C19. I put videos up in youtube, you watch them wherever and whenever you want, then we synch and discuss using zoom/webex at class time,
-or some mutually agreeable time.
+<b> The course is now online, thanks to C19..
 
-Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work, and submit in PDF to us BY FRIDAY of the week.
+Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our Q&A meeting (synch) point, which is class time. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work.
 </b>
 
 The repo includes lecture notes, papers, and syllabus (this file).
@@ -71,8 +70,10 @@ EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
 
 GRADING:
 
-30% Brief Essays (5)
+5% Brief Essay 
+
+20% Term essay (end of term)
 
 30% Presentation of material AND its related material, level of involvement in discussions online and offline.
 
-40% Weekly quiz (total of 12 quizzes, max. 10 count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
+45% Weekly quiz (max. 10 of quizzes count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
