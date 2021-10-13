@@ -10,6 +10,7 @@ This is the repo for the course above at METU when i teach it.
 Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of
 the week, and questions. 3) We do Q&A-Discussion face to face, in a collectively determined date and time, for 2 hours max (because of C19)
 4) You do a short quiz on the week's topics, take home and solo work, 4) You present a published work, which we record.
+
 The repo includes lecture notes, papers, and syllabus (this file).
 
 It is required that you clone (git command that is `git clone') and monitor this repo ('git pull'). <b>Learn git basics  as soon as possible. Git culture is great for organizing work, and doing team work. It has become part of the toolkit for scientific work</b>. 
@@ -24,7 +25,7 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2020) Office hours: TBA
+LECTURER: Cem Bozsahin (Fall 2021) Office hours: TBA
 
 TA: Firat Oter
 
