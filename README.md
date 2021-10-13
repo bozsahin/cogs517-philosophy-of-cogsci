@@ -1,14 +1,15 @@
 # cogs517-philosophy-of-cogsci
 
-# Fall 2020 (online)
+# Fall 2021 (hybrid)
 
 This is the repo for the course above at METU when i teach it.
 
-<b> The course is now online, thanks to Covid-19.</b> 
+<b> The course is now HYBRID. (%60 of official contact hours is face to face, i.e. 25 hours)
+<a href="https://bozsahin.github.io/">Please read the top of this page here as potential student.</a> </b>
 
-Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our Q&A meeting (synch) point, which is class time. We discuss the topics of the week, and questions. 3) You do a short quiz on the week's topics, take home and solo work.
-4) Presentations of papers are done at our synch time. We record them to be put on line, but synch attendance is required.
-
+Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of
+the week, and questions. 3) We do Q&A-Discussion face to face, in a collectively determined date and time, for 2 hours max (because of C19)
+4) You do a short quiz on the week's topics, take home and solo work, 4) You present a published work, which we record.
 The repo includes lecture notes, papers, and syllabus (this file).
 
 It is required that you clone (git command that is `git clone') and monitor this repo ('git pull'). <b>Learn git basics  as soon as possible. Git culture is great for organizing work, and doing team work. It has become part of the toolkit for scientific work</b>. 
@@ -23,11 +24,11 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2020) Office hours: (asynch: just send me email if it is a personal problem, write to group if not). 
+LECTURER: Cem Bozsahin (Fall 2020) Office hours: TBA
 
-TA: Giray Songul.
+TA: Firat Oter
 
-LECTURES: Thursdays 14.40-17.30 (this is our synch hour). Online in Fall 2020.
+LECTURES: Thursdays 11.40-14.30. THIS IS SYNCH POINT FOR YOU TO FINISH WATCHING THE WEEK'S VIDEO.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
