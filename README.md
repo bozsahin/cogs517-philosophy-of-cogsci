@@ -5,7 +5,7 @@
 This is the repo for the course above at METU when i teach it.
 
 <b> The course is now HYBRID. (%60 of official contact hours is face to face, i.e. 25 hours)
-<a href="https://bozsahin.github.io/">Please read the top of this page here as potential student.</a> </b>
+<a href="https://bozsahin.github.io/">Please read the flying banner here as potential student.</a> </b>
 
 Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of
 the week, and questions. 3) We do Q&A-Discussion face to face, in a collectively determined date and time, for 2 hours max (because of C19)
