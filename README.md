@@ -46,12 +46,12 @@ COURSE OUTLINE:
 
 W1-2: Introduction: A bit of philosophy of Science/Mind before Philosophy of Cogsci
 
-W3-4: Turing, Marr, and the Explanatory role of computers for the mind
+W3-5: Turing, Marr, and the Explanatory role of computers for the mind
 
-W5-14: Topics To be determined from the reader.
+W6-14: Topics To be determined from the reader.
 
 
-COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students about one of the papers in the reader. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
+COURSE CONDUCT: W1-5 lectures. W6-W14 are presentations by students about one of the papers in the reader. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
 
 TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
@@ -72,10 +72,8 @@ EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
 
 GRADING:
 
-5% Brief Essay 
-
 20% Term essay (end of term)
 
 30% Presentation of material AND its related material, level of involvement in discussions online and offline.
 
-45% Weekly quiz (max. 10 of quizzes count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
+50% Weekly quiz (best 10 quiz count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
