@@ -1,15 +1,8 @@
 # cogs517-philosophy-of-cogsci
 
-# Fall 2021 (hybrid)
+# Fall 2022
 
 This is the repo for the course above at METU when i teach it.
-
-<b> The course is now HYBRID. (%60 of official contact hours is face to face, i.e. 25 hours)
-<a href="https://bozsahin.github.io/">Please read the flying banner here as potential student.</a> </b>
-
-Weekly flow of the course: 1) I put the week's lecture video up in youtube. 2) You watch it before our meeting (synch) point. We discuss the topics of
-the week, and questions. 3) We do Q&A-Discussion face to face, in a collectively determined date and time, for 2 hours max (because of C19)
-4) You do a short quiz on the week's topics, take home and solo work, 4) You present a published work, which we record.
 
 The repo includes lecture notes, papers, and syllabus (this file).
 
@@ -25,11 +18,11 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2021) Office hours: TBA
+LECTURER: Cem Bozsahin (Fall 2022) Office hours: TBA
 
-TA: Firat Oter
+TA: TBA
 
-LECTURES: Thursdays 11.40-14.30. THIS IS SYNCH POINT FOR YOU TO FINISH WATCHING THE WEEK'S VIDEO.
+LECTURES: Tuesdays 11.40-14.30. 
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
