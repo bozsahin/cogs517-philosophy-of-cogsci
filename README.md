@@ -22,7 +22,7 @@ LECTURER: Cem Bozsahin (Fall 2022) Office hours: TBA
 
 TA: TBA
 
-LECTURES: Tuesdays 11.40-14.30. 
+LECTURES: Tuesdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
