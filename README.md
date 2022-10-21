@@ -39,17 +39,18 @@ COURSE OUTLINE:
 
 W1-2: Introduction: A bit of philosophy of Science/Mind before Philosophy of Cogsci
 
-W3-5: Turing, Marr, and the Explanatory role of computers for the mind
+W3-4: Turing, Marr, and the Explanatory role of computers for the mind
 
-W6-14: Topics To be determined from the reader.
+W5-14: Topics To be determined from the reader.
 
 
-COURSE CONDUCT: W1-5 lectures. W6-W14 are presentations by students about one of the papers in the reader. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
+COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students about one of the papers in the reader. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
 
 TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
-The reader contains work by Turing, Marr, Fodor, Dennett, Newell, Simon, Putnam, Searle, Chalmers, Dermott, Sloman, Clark, Pollock,
-Bechtel, Churchland, Aaronson, Smolensky, Haugeland, Tomasello, and my papers related to subject which form the basis of my lecture notes.
+The reader contains work by Turing, Fodor, Pylysyhn, Dennett, Newell, Simon, Putnam, Searle, McDermott, Clark
+Churchland, Tomasello, Malinowski, Farrell, Barsalou, Metzinger et. al, Hrdy, Piantadosi, Tiddi et. al, Maclure, 
+and my papers related to the subject which form the basis of my lecture notes.
 
 LECTURE NOTES:
 
