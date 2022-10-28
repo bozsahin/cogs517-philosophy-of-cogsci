@@ -49,7 +49,7 @@ COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students about one of
 TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
 The reader contains work by Turing, Fodor, Pylysyhn, Dennett, Newell, Simon, Putnam, Searle, McDermott, Clark
-Churchland, Tomasello, Malinowski, Farrell, Barsalou, Metzinger et. al, Hrdy, Piantadosi, Tiddi et. al, Maclure, 
+Churchland, Tomasello, Cisek, Farrell, Barsalou, Metzinger et. al, Hrdy, Piantadosi, Tiddi et. al, Maclure, 
 and my papers related to the subject which form the basis of my lecture notes.
 
 LECTURE NOTES:
