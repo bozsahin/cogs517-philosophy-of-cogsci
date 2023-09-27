@@ -1,6 +1,6 @@
 # cogs517-philosophy-of-cogsci
 
-# Fall 2022
+# Fall 2023
 
 This is the repo for the course above at METU when i teach it.
 
@@ -18,11 +18,14 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2022) Office hours: TBA
+LECTURER: Cem Bozsahin (Fall 2023) Office hours: Open door
 
-TA: TBA
+TA: Rojda Ozcan
 
-LECTURES: Tuesdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
+LECTURES: Thursdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
+
+LECTURE FORMAT: Formal lectures, discussion, presentations, quizzes. In formal lectures, we have two hours
+of lecture, than one hour of quiz, either sit-in or take-home.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
@@ -44,7 +47,7 @@ W3-4: Turing, Marr, and the Explanatory role of computers for the mind
 W5-14: Topics To be determined from the reader.
 
 
-COURSE CONDUCT: W1-4 lectures. W5-W14 are presentations by students about one of the papers in the reader. Short weekly quiz during class, in the beginning or the end. Essay writing throughout the term.
+COURSE CONDUCT: W1-5 lectures. W6-W14 are presentations by students about one of the papers in the reader. 
 
 TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
@@ -66,8 +69,8 @@ EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
 
 GRADING:
 
-20% Term essay (end of term)
+25% Term essay (end of term)
 
 30% Presentation of material AND its related material, level of involvement in discussions online and offline.
 
-50% Weekly quiz (best 10 quiz count toward grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
+45% Weekly quiz (best 9 quiz out of 10 count howard grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
