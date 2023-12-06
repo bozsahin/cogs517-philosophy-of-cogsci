@@ -1,8 +1,8 @@
 Here are some pointers to progress and puzzles in cognitive science.
 
-1- Some fundamental questions : (<a href="fq-cb.pdf">personal suggestions</a>
+1- Some fundamental questions : (<a href="fq-cb.pdf">personal suggestions</a>)
 
-2- Progress and puzzles : (<a href="https://co-mind.org/progress-puzzles-preview/">CSS's suggestions</a>
+2- Progress and puzzles : (<a href="https://co-mind.org/progress-puzzles-preview/">CSS's suggestions</a>)
 
 3- Information for general audience (these are award-winning videos from Cognitive Science Society--CSS)
 
