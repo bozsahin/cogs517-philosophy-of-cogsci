@@ -29,6 +29,10 @@ of lecture, than one hour of quiz, either sit-in or take-home.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
+<em>NOTE TO UNDERGRADUATE STUDENTS: This course thrives on in-class discussion and off-class writing.
+It also includes taking responsibility of presenting a paper. We know that you have the right to withdraw
+from a course, but that can disrupt the course. Please think thoroughly before you register for the course. </em>
+
 COURSE IN RELATION TO THE PROGRAM: It is a departmental elective course in the Philosophy track of Cognitive Science. It can be taken as elective by other departments.
 
 COURSE OBJECTIVES: One can study these topics in the philosophical tradition, as philosophy of mind. One can also see the contents as philosophy for cognitive science, i.e. covering schools and practices of philosophy for the benefit of the cognitive scientist. This course is neither. It is about the philosophy of cognitive science from the inside, as cognitive scientists encounter scientific and philosophical problems, more like in a philosophy of science tradition, except that it's covered by a scientist rather than a philosopher in current offering.
