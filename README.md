@@ -31,7 +31,7 @@ BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level o
 
 <em>NOTE TO UNDERGRADUATE STUDENTS: This course thrives on in-class discussion and off-class writing.
 It also includes taking responsibility of presenting a paper. We know that you have the right to withdraw
-from a course, but that can disrupt the course. Please think thoroughly before you register for the course. </em>
+from a course, but that can disrupt the course if you withdraw close to your presentation. Please think thoroughly before you register for the course. </em>
 
 COURSE IN RELATION TO THE PROGRAM: It is a departmental elective course in the Philosophy track of Cognitive Science. It can be taken as elective by other departments.
 
