@@ -37,8 +37,6 @@ COURSE IN RELATION TO THE PROGRAM: It is a departmental elective course in the P
 
 COURSE OBJECTIVES: One can study these topics in the philosophical tradition, as philosophy of mind. One can also see the contents as philosophy for cognitive science, i.e. covering schools and practices of philosophy for the benefit of the cognitive scientist. This course is neither. It is about the philosophy of cognitive science from the inside, as cognitive scientists encounter scientific and philosophical problems, more like in a philosophy of science tradition, except that it's covered by a scientist rather than a philosopher in current offering.
 
-So, why this course? Remember: We wouldn't need CogSci if Cognitive Psychology were successful. We wouldn't need CogSci if AI were successful. We wouldn't need CogSci if Philosophy of Mind were successful. We wouldn't need CogSci if the so-called Cognitive Revolution in Linguistics were successful. Inquiring minds want to know why they failed (to deliver).
-
 Although we spend good amount of time on the mind-body problem, this is NOT a philosophy of mind course. In other words, we're not
 ONLY interested in this problem. We try to understand philosophical implications of postulating mechanisms for complex problems that natural minds seem to be able to deal with, and probably outsource some of that to artificial minds once they are relatively well understood.
 
