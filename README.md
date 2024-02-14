@@ -1,6 +1,6 @@
 # cogs517-philosophy-of-cogsci
 
-# Fall 2023
+# Spring 2024
 
 This is the repo for the course above at METU when i teach it.
 
@@ -18,11 +18,11 @@ COURSE CODE, TITLE AND CREDIT: COGS 517: Philosophy of Cognitive Science , (3-0)
 
 CATALOG DESCRIPTION: Mind-body problem. Materialist theories of mind and cognition. Arguments against materialism. Consciousness. Intentionality. Free will. Mental causation. Perception. Modularity and Creativity in cognition. Computationalism. Language of Thought Hypothesis. Computational Theories of Mind. What is Cognitive Science About?
 
-LECTURER: Cem Bozsahin (Fall 2023) Office hours: Open door
+LECTURER: Cem Bozsahin (Spring 2024) Office hours: Open door
 
 TA: Rojda Ozcan
 
-LECTURES: Thursdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
+LECTURES: Wednesdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
 
 LECTURE FORMAT: Formal lectures, discussion, presentations, quizzes. In formal lectures, we have two hours
 of lecture, than one hour of quiz, either sit-in or take-home.
@@ -51,7 +51,7 @@ COURSE CONDUCT: W1-5 lectures. W6-W14 are presentations by students about one of
 
 TEXTBOOK: None. There is a course reader which includes required readings for everyone.
 
-The reader contains work by Turing, Fodor, Pylysyhn, Dennett, Newell, Simon, Putnam, Searle, McDermott, Clark
+(Subject to change in 2024): The reader contains work by Turing, Fodor, Pylysyhn, Dennett, Newell, Simon, Putnam, Searle, McDermott, Clark
 Churchland, Tomasello, Cisek, Farrell, Barsalou, Metzinger et. al, Hrdy, Piantadosi, Tiddi et. al, Maclure, 
 and my papers related to the subject which form the basis of my lecture notes.
 
