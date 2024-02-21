@@ -2,7 +2,7 @@
 
 # Spring 2024
 
-NOTE: Although we spend good amount of time on the mind-body problem, this is NOT a philosophy of mind course. In other words, we're not
+NOTE: Although we spend a good amount of time on the mind-body problem, this is NOT a philosophy of mind course. In other words, we're not
 ONLY interested in this problem. We try to understand philosophical implications of postulating mechanisms for complex problems that natural minds seem to be able to deal with, and probably outsource some of that to artificial minds once they are relatively well understood.
 
 This is the repo for the course above at METU when i teach it.
