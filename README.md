@@ -71,8 +71,10 @@ EXTRA LINKS: http://users.metu.edu.tr/bozsahin/cogs517/
 
 GRADING:
 
-25% Term essay (end of term)
+15% Term essay (end of term)
 
-30% Presentation of material AND its related material, level of involvement in discussions online and offline.
+20% Presentation of material AND its related material. 
+
+20% Level of involvement in discussions online and offline.
 
 45% Weekly quiz (best 9 quiz out of 10 count howard grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
