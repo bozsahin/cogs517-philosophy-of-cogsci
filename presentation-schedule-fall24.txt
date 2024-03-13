@@ -1,0 +1,18 @@
+   date         paper no      Presenters (in order)
+----------      ----------    ---------------------
+Mar	27	4, 10         Gizem Yetkinkole, Direnc Ersahin
+	
+Apr     3	1, 5          N. Bilge Karabulut, Mert Pacaci
+
+	17	6, 3          Alyosa Sezer, Ezgi Temel
+
+	24	2, 7          B. Meltem Akbas, O. Goze Ozdemir
+
+May 	8 	14, 8         Naz Dundar, Isik Mertek
+
+	15	9, 12         Esma Aslan, A. Akbuke Ince
+
+	22      11, 13        Z. Betul Yenen, A. Esra Erdogan
+
+
+        29 	Wrap up
