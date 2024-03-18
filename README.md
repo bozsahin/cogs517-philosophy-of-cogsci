@@ -27,8 +27,8 @@ TA: Rojda Ozcan
 
 LECTURES: Wednesdays 11.40-14.30, at room S-03 of the Informatics Institute (second room on the first right at the entrance)
 
-LECTURE FORMAT: Formal lectures, discussion, presentations, quizzes. In formal lectures, we have two hours
-of lecture, than one hour of quiz, either sit-in or take-home.
+LECTURE FORMAT: Formal lectures, discussion, presentations, essays. In formal lectures, we have two hours
+of lecture, than one hour of essay writing, either sit-in or take-home.
 
 BACKGROUND REQUIREMENTS: Basic understanding of cognitive science at the level of COGS501 and COGS502. Or some backgorund in philosophy or AI.
 
@@ -77,4 +77,4 @@ GRADING:
 
 15% Level of involvement in discussions online and offline.
 
-45% Weekly quiz (best 9 quiz out of 10 count howard grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
+45% Weekly essays (best 9 essay out of 10 count howard grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
