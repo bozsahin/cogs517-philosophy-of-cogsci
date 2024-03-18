@@ -77,4 +77,4 @@ GRADING:
 
 15% Level of involvement in discussions online and offline.
 
-45% Weekly essays (best 9 essay out of 10 count howard grade. Quiz topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
+45% Weekly essays (best 9 essay out of 10 count howard grade. Essay topics are usually topics discussed in current topics, or the one before or after, or from the reading assignment of the week.)
